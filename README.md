@@ -3,12 +3,7 @@
 
 💛 I’m a data enthusiast who believes numbers have voices.  
 📈 Each pattern tells a story, and I’m here to translate it.  
-🧠 I love turning raw data into clarity and insight.  
-🌱 Curiosity keeps me exploring, purpose keeps me grounded.  
-✨ Forever learning and building through discovery.  
-
-🌍 I love travel, 🍽️ food, and 🧑🏾‍🍳 cooking; they fuel my creativity.  
-⚡ Passionate about data analytics and clean energy.  
+🌍 I love travel, 🍽️ food, and 🧑🏾‍🍳 cooking; they fuel my creativity.   
 💼 Currently diving deep into **energy data analysis**.  
 🎯 Goal this year: apply data in **finance** and explore **quantitative analysis**. 
 
