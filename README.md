@@ -1,9 +1,10 @@
 # 💫 About Me:
-👋🏾 Hey there, I’m Arame  
+👋🏾 Hey there, I’m Arame
 
-💛 I’m a data enthusiast who believes numbers have voices.  
-📈 Each pattern tells a story, and I’m here to translate it.  
-💼 Currently diving deep into **energy data analysis**.  
+💛 I’m a data and energy enthusiast who believes numbers have voices.
+📈 Each pattern tells a story, and I’m here to translate it.
+🔋 Passionate about connecting data analytics with sustainable systems to power smarter, cleaner solutions.
+💼 Currently diving deep into energy data analysis, exploring how insights can shape a more efficient future..  
 
 
 # 💻 Tech Stack:
